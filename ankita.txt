@@ -1,0 +1,17 @@
+#! /bin/bash
+
+#adding
+
+a=$(( 5+5 ))
+
+#Subtracting
+
+b=$(( 20-10 ))
+
+#Multiplying
+
+c=$(( 5*2 ))
+
+#Division
+
+d=$(( 20/2 ))
